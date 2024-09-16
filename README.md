@@ -17,7 +17,7 @@ This project implements a Zero Trust Network Access model to secure network acce
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ZTNA-Implementation.git
+    git clone https://github.com/Barrosleo/ZTNA-Implementation.git
     ```
 2. Navigate to the project directory:
     ```bash
